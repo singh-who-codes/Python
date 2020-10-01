@@ -11,4 +11,5 @@ mm = 11    # month
 # mm = int(input("Enter month: "))
 
 # display the calendar
-prin(calendar.month(yy, mm))
+#fixed the error at this place.
+print(calendar.month(yy, mm)) 
