@@ -1,7 +1,7 @@
 # Python program to find H.C.F of two numbers
 
 # define a function
-de compute_hcf(x, y):
+def compute_hcf(x, y): #updated syntax error
 
 # choose the smaller number
     if x > y:
@@ -16,4 +16,4 @@ de compute_hcf(x, y):
 num1 = 54 
 num2 = 24
 
-prin("The H.C.F. is", compute_hcf(num1, num2))
+print("The H.C.F. is", compute_hcf(num1, num2)) #updated syntax error
